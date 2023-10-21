@@ -91,6 +91,6 @@ Jest ejecutará las pruebas y mostrará los resultados en la consola. Puedes per
 
 ¡Ahora estás listo para escribir y ejecutar pruebas unitarias en JavaScript con Jest en Visual Studio Code!
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
