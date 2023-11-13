@@ -2,6 +2,10 @@
 
 Esta guía te mostrará cómo instalar npm (Node Package Manager) y Jest en Visual Studio Code. También te proporcionará un ejemplo de código para realizar pruebas unitarias en JavaScript.
 
+## Que es una prueba unitaria y para que sirve
+
+Una prueba unitaria en JavaScript, con Jest, evalúa funciones o métodos aislados para asegurar su correcto funcionamiento, detectar errores tempranos y mejorar la calidad del código.
+
 ## Instalación de npm en Visual Studio Code
 
 Para trabajar con npm en Visual Studio Code, sigue estos pasos:
